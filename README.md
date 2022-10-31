@@ -2,7 +2,9 @@
 Project 1 
 Insertian-sort
 www.Patika.dev
+
 Bu veri Yapıları ve Algoritmalar eğitiminin ilk projesidir.
+
 [22,27,16,2,18,6] -> Insertion Sort
 1.Yukarıda verilen dizinin sort türüne göre aşamalarını yazınız.
 [22, 27, 16, 2, 18, 6]
@@ -15,10 +17,9 @@ Bu veri Yapıları ve Algoritmalar eğitiminin ilk projesidir.
 
 2.Big-O gösterimini yazınız.
 n + (n-1) + (n-2) ...
-
 n(n-1)/2 = n²-n/2
-
 O(n²)
+
 3.Time Complexity
 •Average Case:Aradığımız sayının ortada olması
 
